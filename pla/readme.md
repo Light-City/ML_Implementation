@@ -1,5 +1,5 @@
 
-![](http://p20tr36iw.bkt.clouddn.com/pla.png)
+![](http://p20tr36iw.bkt.clouddn.com/pla1.png)
 
 
 # 可视化PLA算法
@@ -130,7 +130,7 @@ plt.savefig('pla.png', dpi=75)
 plt.show()
 ```
 
-![](http://p20tr36iw.bkt.clouddn.com/pla.png)
+![](http://p20tr36iw.bkt.clouddn.com/pla1.png)
 
 
 ## 2.作者的话

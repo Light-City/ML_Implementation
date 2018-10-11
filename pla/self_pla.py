@@ -74,13 +74,14 @@ print(pt)
 
 
 # 可视化
-x = np.linspace(0, 7, 200)
+x = np.linspace(0, 5, 200)
 # 最终的函数表达式为w[0][0]*x+w[1][0]*y=0,推导后就是下面的式子
 y = (-b - w[0][0] * x) / w[1][0]
 plt.plot(x, y, color='r')
 plt.scatter(X[:2, 0], X[:2, 1], color='blue', marker='o', label='Positive')
 plt.scatter(X[2:, 0], X[2:, 1], color='red', marker='x', label='Negative')
 plt.xlabel('x')
+plt.ylim(0,5)
 plt.ylabel('y')
 plt.legend()
 plt.title('PLA')
