@@ -134,5 +134,5 @@ plt.show()
 
 
 ## 2.作者的话
-有关机器学习的更多内容，请关注
+有关机器学习的更多内容，请关注下面个人公众号
 ![](http://p20tr36iw.bkt.clouddn.com/wechat.jpg)
